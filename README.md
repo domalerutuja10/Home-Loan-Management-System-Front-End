@@ -104,8 +104,3 @@ MySQL is running
 Database home_loan is created
 
 Spring Boot app runs on: http://localhost:8080/ (Check Port no:- in application.properties)
-
-## ✍️ Author
-
-Suchit Chaudhari
-📧 suchitchaudhari17@gmail.com
