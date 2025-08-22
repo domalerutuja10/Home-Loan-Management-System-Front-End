@@ -26,6 +26,6 @@ This repository contains the **Angular-based frontend** of the application
 ---
 👩‍💻 Author
 
-Email:domalerutuja@gmail.com
+Email: domalerutuja@gmail.com
 
 
