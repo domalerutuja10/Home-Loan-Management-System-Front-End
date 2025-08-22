@@ -1,9 +1,10 @@
-# 🏦 Loan Management System (Frontend)
+# 🏦 Home Loan Management System (Frontend)
 
 The **Loan Management System** is a full-stack loan application platform that allows users to apply for loans, upload documents, track application status, view sanction letters, and more.  
 This repository contains the **Angular-based frontend** of the application
 ---
-
+🔗 **Related Repositories**  
+- [Backend Repo: Home-Loan-Management-System](https://github.com/domalerutuja10/Home-Loan-Management-System-Back-End)) 
 ## 🚀 Features
 
 - 🔐 **User Registration and Login**  
